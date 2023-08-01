@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**CodeWithBiniam/CodeWithBiniam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I'm a passionate developer, specializing in spatial analysis and data processing. My programming journey is my adventure, and I love building intricate 'sandcastles' of logic and functionality in the digital sandbox.
 
